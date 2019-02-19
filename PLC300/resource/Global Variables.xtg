@@ -703,4 +703,9 @@
             <variable_language language="pt" text=""/>
         </ns2:variable_text>
     </VARIABLE>
+    <VARIABLE tag="AAAA" datatype="REAL" initialvalue="0" value="" at="%MD" address="" group="GLOBAL" bit="" size="0" var_instance="false" var_struct="false" parameterId="" variableTooltip="">
+        <ns2:variable_text text="">
+            <variable_language language="pt" text=""/>
+        </ns2:variable_text>
+    </VARIABLE>
 </LADDER>
