@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LADDER xmlns:ns2="http://initialvariable.xmlclasses.xmleqmtapi.wps.weg.net/txt" revision="2">
+    <VARIABLE tag="VAR_TESTE" datatype="INT" initialvalue="0" value="" at="" address="" group="LOCAL" bit="" size="0" var_instance="false" var_struct="false" parameterId="" variableTooltip="">
+        <ns2:variable_text text="">
+            <variable_language language="pt" text=""/>
+        </ns2:variable_text>
+    </VARIABLE>
+    <RUNG strName="" strComment="">
+        <ELEMENT strElementType="INPUT" strArguments="">
+            <ELEMENT strElementType="FUNCTION" strLadderType="FB_STORE_V3" strArguments="WORD#0 VAR_TESTE "/>
+        </ELEMENT>
+        <ELEMENT strElementType="FAKEOUTPUT" strArguments=""/>
+    </RUNG>
+</LADDER>

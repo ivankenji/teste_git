@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<screen number="0" passwordLevel="0" autoLogoff="false">
+    <button index="0" type_f1="NONE" type_f2="NONE"/>
+    <button index="1" type_f1="NONE" type_f2="NONE"/>
+    <button index="2" type_f1="NONE" type_f2="NONE"/>
+    <button index="3" type_f1="NONE" type_f2="NONE"/>
+    <button index="4" type_f1="NONE" type_f2="NONE"/>
+    <button index="5" type_f1="NONE" type_f2="NONE"/>
+</screen>
