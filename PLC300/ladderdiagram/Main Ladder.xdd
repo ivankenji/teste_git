@@ -12,4 +12,11 @@
         </ELEMENT>
         <ELEMENT strElementType="FAKEOUTPUT" strArguments=""/>
     </RUNG>
+    <RUNG strName="v2" strComment="">
+        <ELEMENT strElementType="INPUT" strArguments="">
+            <ELEMENT strElementType="FUNCTION" strLadderType="FB_STORE_V3" strArguments="WORD#0 VAR_TESTE "/>
+            <ELEMENT strElementType="FUNCTION" strLadderType="FB_STORE_V3" strArguments="WORD#0 VAR_TESTE "/>
+        </ELEMENT>
+        <ELEMENT strElementType="FAKEOUTPUT" strArguments=""/>
+    </RUNG>
 </LADDER>
